@@ -1,0 +1,274 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Diversity Harnessing Questions, Answers, and Usage (Sample Set)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44141</md:content-id>
+  <md:title>Diversity Harnessing Questions, Answers, and Usage (Sample Set)</md:title>
+  <md:abstract>This is a sample set of the types of questions asked in ECE101 to build upon the Diversity Harnessing concept. This module will outline both successes and failures of the questions to draw useful material from the participating students.</md:abstract>
+  <md:uuid>1ef750ac-fdee-4179-abce-0070385669b6</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-370"><title>Preface</title><para id="eip-414">My course, ECE101: Exploring Digital Information Technologies, explores many topics.  The common thread in all these topics are that they lead to knowledge in how to produce well-engineered software/hardware solutions to life's many problems.
+In this module, I highlight just a few of the course topics, the Diversity Harnessing question used associated with that topic, a short list of some responses obtained from the students, and a discussion on how those responses were (or were not) used in preparing course materials.
+</para></section><section id="eip-886"><title>HTML</title><para id="eip-770"><quote id="eip-id1163967767460">Name up to three web sites that you find particularly fun. Explain what it is that makes each site fun for you.</quote>
+
+<quote id="eip-id1163967767461">Which features do you feel you would be able to implement from your experiences in ECE101? Which features to you suspect would be far too difficult?</quote></para>
+
+<note id="eip-121">My goal was to use the answers to this question to determine applications for HTML/JavaScript that I could code during lecture using only the handful of simple techniques they had already learned (plus maybe one or two more as needed).</note>
+
+<para id="eip-465"><title>Student Response "A"</title>Three websites that I find particularly fun are youtube.com, halolz.com, and 
+tumblr.com. I like the fact that each of these sites provides original content by 
+their users all in one place and in various forms as well. The layout for each is 
+very easy to use and you can easily share what you find on other social networking 
+sites with the click of a button.<newline/>
+Besides adding a title, headings, and paragraphs, we honestly can't do too much 
+right now since we don't have much experience. From my past experience working 
+with HTML, I would be able to add pictures, video, hyperlinks, and tables, but 
+aside from those, advanced features like creating a playlist, favoriting, and 
+subscribing may be too difficult at this time.
+</para><note id="eip-943">Response A is quite useful. It provides exact sites that many other students would also be familiar with and interested in.  The student also expresses the range of prior experience in HTML and specific skills that are wanting. Unfortunately, the skills they request are <emphasis>a bit complex for an in-lecture demonstration although we do something similar during lab</emphasis>. In the end, I used the answers to this question in a different manner: I showed them how to write JavaScript code to allow the class to enter the URLs of their favorite sites using a browser and have the browser automatically generate a website of ECE101's favorite web sites. I may also use the list of websites and descriptive keywords to teach XML to classes in the future.</note><note id="eip-351" type="tip">If the responses don't guide you where you expect, be prepared to make lemonade from lemons by using them in a different manner! Either way, it personalizes the course.</note></section>
+
+
+<section id="eip-220">
+
+<title>Information</title>
+
+
+
+<para id="eip-573"><quote id="eip-id5833554">Give an example of what enters your mind when you hear the word “Information.”
+Devise a short definition of “Information.”
+</quote></para>
+
+<note id="eip-240">Here, my intent was to categorize the student’s various definitions of “Information” to show them that their ideas are, indeed, correct. In this way, it does not take on too technical a definition when we apply to signal acquisition and file compression.</note>
+
+<para id="delete_me"><list id="eip-id2603696"><title>Multiple Student Responses</title><item>I think of data when I think of information.</item>
+<item>
+Information = knowledge describing a particular topic
+</item>
+<item>
+
+I think of information as the very basic form of knowledge.  Anything that can be spread from one person to another.</item>
+<item>
+
+When I think of information…I think of a library or a computer search with access to all that knowledge in that library
+Definition of information…any known facts or statements, etc. true/false made by a person(s).
+</item>
+<item>
+Information – knowledge on demand
+</item>
+<item>
+I think of a newspaper when I think of information.
+My definition is a series of ideas that can empower someone or something to get an answer for a question.
+</item>
+<item>
+Characters (letters, numbers, symbols) arranged in a way so as to render them significant, intelligible, and transmittable between more than one entity.
+</item>
+<item>
+
+Information is knowledge.
+</item>
+<item>
+To me, information is knowledge that can be shared.
+</item>
+<item>
+Information is a intertable (interpretable?) knowledge by any means.  When I think of Information, I think of books/Internet and so forth.
+</item>
+<item>
+The knowledge of something needed in particular or info or data on a particular subject.
+I always think of the internet and somebody typing in a question.
+</item>
+<item>
+Information is facts, truths, and knowledge.  Information can also take the form of pictures, video, and audio.
+</item>
+<item>
+Information: Collective amount of data about anything or a specific thing.
+</item>
+<item>
+Information: Knowledge about a particular subject.
+</item>
+<item>
+Written or scribed symbols that provides a fact, sound, image, or text that is understood as data to people.
+</item>
+<item>
+Information   Content   Messages in a specific order/sequence     anything that can be interpreted into a ‘message’
+</item>
+<item>
+Information: Knowledge.  Help you to understand an object.
+</item>
+<item>
+Information – It depends in what context.  Information journalism can mean contact information, relevance, age, background history, etc.  When it comes to computers and the internet, I think of information as data and all the codes, numbers, and programs that are being utilized.  Essentially, I think information and data are interchangeable. (But I’m most likely wrong)
+</item>
+<item>
+I believe that information is a collection of facts and knowledge about various subjects that is shared among people and invokes learning or thought.
+</item>
+<item>
+When I think of information, I think of data that is transmitted either by technology (internet, media, television, radio) or from person to person.
+</item>
+<item>
+Information: technology
+</item>
+<item>
+Information – describes and defines something (anything)
+</item>
+<item>
+Information  
+Knowledge or something-needed-to-do-a-job.  Something passed along to aid in know-how.  Data   Truths
+</item>
+<item>
+Information: truths        data
+</item><item>
+Information: Characters, symbols or everything contains a particular meaning that people (or animals) want to convey.
+</item>
+<item>
+Definition of information: something useful derived from raw data and can be an important role in decision making.
+Eg. The weather forecast in the next 7 days.
+
+</item>
+
+  </list></para><note id="eip-985">The last item (which mentions "data", "decision making" and "weather forecast") appears tainted by the course notes which are available in advance of the lecture. I accept the fact that this will sometimes occur.  I suspect that students who are engaged enough to read lecture notes ahead of the lectures contribute to the class discussions in other ways besides the Diversity Harnessing method.  That is to say, they are probably not the students who need the extra effort for engagement in the materials!</note><para id="eip-35"><emphasis>Summary of answers</emphasis>:
+In the next class, I was able to report that most students associate information with knowledge and the transferal of that knowledge.  The knowledge itself pertains to any concrete or abstract thing, but the most common examples are concrete such as demographic information or electronic files.  Interesting statements include that even "false" information is still information and that information can be conveyed to/from animals as well as humans.  It can also be used to “do a job.”
+
+</para><para id="eip-751">This naturally leads to discussions about what information is necessary to make an informed decision.  What information is unnecessary? I typically ask the students about a jury who must make an informed decision regarding the guilt or innocence of the accused.  I also discuss whether material irrelevant to this decision might be introduced during the trial and what purpose it might serve. Now, the students' answers provide additional fuel for discussion. Now new questions can be derived from the students responses above...</para><example id="eip-744">
+<para id="eip-492">
+  If I type ``What is the weather in Urbana Illinois'' into a search engine, does the search criteria treat every word with equal importance?  Why or why not?</para><para id="eip-34"><title>Answer 1</title>Of course, you want the students to discuss and propose answers, but you should expect the discussion to focus on more important words like "weather", "Urbana", and "Illinois".  Words like "the" probably appear in most searches and carry little importance.  The word "what" might be a bit more disputed with regards to its importance, but I would argue that it might guide us to a page where the material is prepared as an answer to a question and may be better directed to what we desire.</para>
+</example>
+
+<example id="eip-174">
+<para id="eip-58">Many of us get information from newspaper articles or RSS feeds.  Consider power from wind turbines which has gotten a lot of attention locally.  What is your opinion of the construction of wind turbines in the area?  What information have you read?  What information did you find most relevant in making your decision?  Least relevant?
+</para><para id="eip-941"><title>Answer 2</title>It is difficult to anticipate answers here or even to know how familiar students may be with this particular issue.  It might have been better to have included in the DH question a request for specific information they obtained recently and gear this question around that.</para></example>
+
+
+
+<para id="eip-321"><title>Other Points</title>A couple of students hinted at the representation or “quantization” of information in some type of symbols: “Characters (letters, numbers, symbols) arranged in a way so as to render them significant, intelligible, and transmittable between more than one entity.”</para><note id="eip-632" type="tip">You should always look for ways to modify a question to obtain more material for use in class.  I think a good addition to this question might be "Name a specific 'piece' of information you obtained today and discuss how you used it."</note>
+</section>
+
+
+<section id="eip-532"><title>Communication</title><para id="eip-1000"><quote id="eip-id1171467920299">Cell phones and the Internet have not always been around, nor are they always the preferred choice of communication today. Name a situation (past or present) where two or more people must communicate where simple voice or Internet communication is not possible. How have they solved this difficulty in communication?</quote>
+</para><note id="eip-685">Here, I wished to find examples where a simplified "alphabet" is developed so that information can be conveyed with low probability of interpretative error.  It serves as a lead-in to Modulation and Forward Error Control.</note><para id="eip-824"><list id="eip-id1165133167606"><title>Multiple Student Responses</title><item>
+A situation that I've experienced where it was preferred and pretty much necessary was at the place where I work, which is a record label. We are very near the release of a new album of one our bands and we   received the first shipment of vinyl that we're distributing. Because vinyl is such a special experience for   music lovers and a very textured media form, we all like listening to new vinyl together as a company in the same room to listen to any flaws in the vinyl. It's hard to judge the sound quality via video conferencing   and sounds completely different than the digital version.
+</item>
+<item>
+    In the past, distance was the major obstacle that prevented people from keeping in
+    touch. If anything, you has to utilize transportation to decrease this distance
+    and so you could talk face to face. Thanks to Alexander Graham Bell and the use of
+    wires, people were able to fix this.
+</item>
+<item>
+
+    In the absence of electronic communication, people must communicate through other
+    means. Physical mail, messengers, or seeing the individual in person are easy ways
+    (though perhaps not so easy as using technology) to communicate. A friend of mine
+    doesn't own a cell phone, so I had to go knock on his door if I wanted to talk to
+    him.
+</item>
+<item>
+
+    In WWI there was only morse code between military officers and personell.
+
+</item>
+<item>
+    People have held meetings. This is still a common practice in businesses,
+    communities, and schools.
+</item>
+<item>
+
+    In the past there was no internet nor a simple way to communicate with people far away or in another
+    town. In order to communicate they would send letters through mail.
+
+</item>
+<item>
+
+    One of the most notable examples of communication without voice or Internet
+    availability is Morse code. In order to transmit messages without the use of
+    voice communication, messages are encoded into a series of lights, clicks, or
+    tones. Morse code is usually transmitted via radio and requires the use of a
+    "key" to form the message and a translator to decode it on the receiving line.
+    The concept of coding and decoding messages is the crux of the solution to
+    developing alternate forms of communication.
+</item>
+<item>
+
+    When my dad was in college, there is no telephone in his hometown, if he wanted to
+    communicate with his family, he would write a letter to them. It always took two
+    weeks or more to reach. Or if there was a emergency, he could telegraph. Compared
+    to letters, it was much quicker but it still needed around 2 days.
+
+</item>
+<item>
+
+    Not sure about the context, but my first answer would be by writing and
+    traditional mail, sounding some kind of signal whether it be by sound or light
+    display (such as smoke from a fire or a bell being struck), telegraph, or other
+    third-party communication. Cell phones and the Internet have solved such
+    problems by making individual communication completely portable and
+    geographically pervasive. There are cell towers all over the globe now, and even
+    remote reaches can have areas where one can receive a cell phone signal making
+    communication the rule rather than the exception.
+</item>
+
+</list></para><para id="eip-880"><title>Summary of Answers</title>Many answers contained US mail or face-to-face communication (unintended answers).  Others contained smoke signals and Morse code (predictable, less interesting).  Notice, however, that the first item above brings a personal aspect to the table in the form of a "recording studio." The student's mention of a recording studio could be expanded so that we could discuss how the recording contractor communicates with the artist during the recording session without interrupting the recording.</para><note id="eip-570" type="tip">The question might be reworded so that it might extract more abstract ideas like American Sign Language or scuba-diver signs. One way to do so may be to include ASL and scuba diver situations directly in the question to push them away from the all-too-obvious answers.  I suspect that sometimes it may be better to saturate the question with potential applications to provide enough examples to lead the students away from what might be dominant and trivial answers.</note></section><section id="eip-925"><title>Digital Information</title><quote id="eip-id1167447055391">There are many ways to digitize information. For example, I can digitize the approximate flavor of the honey I harvest from my honeybees. Honey is made from many different flowers. In Illinois, major sources include: 
+<list id="flowers01" list-type="enumerated" start-value="1" mark-suffix="." item-sep=".">
+  <item>Alfalfa - Medicago sativa</item> 
+  <item>Dandelion - Taraxacum officinale</item> 
+  <item>Soybean - Glycine max</item>
+  <item>Sweetclovers, Melilotus species</item>
+  <item>White sweetclover-Melilotits alba</item>
+  <item>Yellow sweetclover - Melilotus officinalis</item>
+  <item>True clovers, Trifolium species</item>
+  <item>Alsike clover - Trifolium hybridum</item>
+  <item>Ladino - Trifolium repens</item>
+  <item>Red clover - Trifolium pratense</item>
+  <item>White Dutch - Trifolium repens</item>
+</list>  
+
+I can digitize the flavor of my honey by asking the questions:
+<list id="questions01" list-type="enumerated" start-value="1" mark-suffix="." item-sep=".">
+  <item>Was alfalfa in bloom during the honey flow? Yes/No</item> 
+  <item>Was dandelion in bloom during the honey flow? Yes/No</item> 
+  <item>etc...</item>
+</list>
+
+The answers to my question would produce a 11-bit binary file to roughly describe the flavor my honey.
+
+Demonstrate how you can “digitize” something in your life. 
+</quote><para id="eip-789"><title>Student Response "A"</title>I can digitize my life by assigning binary numbers to the muscle group I am working out that day, and to
+    get even more specific, i could assign numbers to particular workouts that i am doing within a given
+    workout.
+<list id="eip-id1169267548095">
+<item>
+    Back 001
+</item>
+<item>
+    Chest 010</item>
+<item>
+    Arms 100</item>
+<item>
+    Legs 011</item>
+<item>
+    Shoulders 110</item>
+<item>
+    Cardiovascular Exercises 111</item>
+<item>
+
+    Lat-pull downs 0001</item>
+<item>
+    Rows 0010</item>
+<item>
+    Pull-ups 0100</item>
+<item>
+
+    flat bench 1000</item>
+<item>
+    incline bench 0011</item>
+<item>
+    push-ups 0111</item>
+<item>
+
+    etc...
+</item>
+</list></para><note id="eip-336">Other answers were less specific on how digitization would actually be applied.  These also make good examples in lecture where you can have the students make suggestions on how to apply 0s and 1s to the information to make it "searchable". See the next response for an example.</note><para id="eip-703"><title>Student Response "B"</title>I could digitize all the movies and books that I've ever read and owned by recording them into a data
+    spreadsheet and organizing them by year/genre/author/title.
+</para></section></content>
+
+</document>

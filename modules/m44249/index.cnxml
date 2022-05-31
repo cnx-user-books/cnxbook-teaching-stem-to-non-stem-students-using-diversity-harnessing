@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Diverse Solutions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44249</md:content-id>
+  <md:title>Diverse Solutions</md:title>
+  <md:abstract>In ECE101 while using the method of diversity harnessing, we have witnessed an increase in student projects that are both self-inspired as well as potentially marketable. We outline a few of them here.</md:abstract>
+  <md:uuid>aad8a67f-5f6a-4b07-90bf-3e00447d1a92</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">In ECE101 while using the method of diversity harnessing, we have witnessed an increase in student projects that are both self-inspired as well as potentially marketable. We outline a few of them here.
+  </para><para id="eip-608"><title>Low-Cost Lecture Capture System</title>Motivated by his own visual impairment, this student prototyped a three-servo motor, one-USB video camera system utilizing the Parallax BASIC Stamp II microcontroller.  The student did not have prior experience in building hardware and his disability was an additional impairment to doing so on his own. Empowered by his early success, he continued his project beyond the end of ECE101 as an "Independent Study", produced a fully-enclosed lecture capture system, and presented it at the University of Illinois's Engineering Open House held in March, 2012.</para><para id="eip-697"><title>Artistic, Wearable Soft Circuits</title>Motivated by her own personal interests, this student constructed a soft-circuit, LED-illuminated quilt that responds to sound and appears to "dance" to music. This student did have prior experience in building such hardware, but found ECE101 to provide additional motivation for completion of her plans.  She also felt compelled to present at Engineering Open House in March, 2012, but pressed herself to complete an entirely different project in the few months leading up to that event. Her music-activated skeletal costume based on the Arduino "LilyPad" received much attention including commercial interest.</para><para id="eip-246"><title>Smart Phone TV Remote</title>Motivated by the potential of smart phones, this student proposed modifying his phone with an external USB device to transform it into a TV remote. After working through basic engineering design steps, he modified his design to use the stereo jack instead of USB thereby saving on both hardware and software development time. The student was able to demonstrate a device capable of turning a television on and off from a very short distance by the end of ECE101. He has plans to complete an Independent Study to design and build a more robust and versatile device.</para></content>
+
+</document>
